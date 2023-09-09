@@ -15,7 +15,7 @@ int main(void)
 		else
 		{	
 			putchar(i + 'o');
-			putchar(', ');
+			putchar(',');
 			putchar(' ');
 		}
 	}
