@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * islower - function
+ * _islower - function
  * @c : parameter for check
  * Return: 0
  */
