@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * void_puts - function
+ * _puts - function
  * @str: parametr
  * Return: void
  */
