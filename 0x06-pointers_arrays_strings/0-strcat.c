@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _streat - function
+ * _strcat - function
  * @dest: parameter 1
  * @src: parameter 2
  * Return: void
